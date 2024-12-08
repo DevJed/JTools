@@ -35,7 +35,6 @@ public static class ProjectSetup
     public static void Import3DEssentials()
     {
         Assets.ImportAssets("Gridbox Prototype Materials.unitypackage", "Ciathyza/Textures Materials");
-        Assets.ImportAssets("Robot Kyle URP.unitypackage", "Unity Technologies/3D ModelsCharactersRobots");
         Assets.ImportAssets("Easy Character Movement.unitypackage", "Oscar Gracin/Complete ProjectsSystems");
     }
 
